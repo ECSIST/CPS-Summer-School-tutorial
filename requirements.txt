@@ -1,0 +1,15 @@
+# Linux x86_64 / Python 3.12. Concrete ML requires this Concrete version.
+--extra-index-url https://download.pytorch.org/whl/cpu
+concrete-ml==1.9.0
+concrete-python==2.10.0
+concrete-ml-extensions==0.1.9
+numpy==1.26.4
+scikit-learn==1.5.0
+onnx==1.17.0
+onnxruntime==1.18.0
+torch==2.3.1+cpu
+scipy==1.13.1
+pandas==2.2.3
+protobuf==5.28.3
+setuptools==75.3.0
+ipykernel==6.29.5
